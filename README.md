@@ -1,2 +1,6 @@
 # Hackaton-USA
-repositorio del proyecto para la hackaton organizada por la embajada americana, equipo "los super amigos"
+## Equipo: "Los Super Amigos"
+
+este repositorio contiene todos los archivos y código fuente correspondiente al proyecto "falta el nombre"
+
+
